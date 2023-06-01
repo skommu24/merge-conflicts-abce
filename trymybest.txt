@@ -1,0 +1,6 @@
+Site reliability engineeringCHILD1 (SRE) is the practice of using software tools 
+to automate IT infrastructure tasks such as system management and application monitoring.
+Organizations use SRE to ensure their software applications remain reliable amidst frequent 
+updates from development teams.
+
+This is from master
